@@ -1,18 +1,32 @@
+body {
+  background-image: url(https://thumbs.dreamstime.com/b/fondo-horizontal-texturizado-madera-colorida-del-arco-iris-78058264.jpg);
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+
 h1 {
-  color: blueviolet;
+  color: indigo;
 }
 img {
   width: 400px;
 }
-div {
-  justify-content: center;
+
+.divClass {
+  margin-left: auto;
+  margin-right: auto;
 }
+
 #thirdDiv {
   height: 600px;
   width: 500px;
   background-color: aquamarine;
   padding: 50px;
   border: 10px solid darkcyan;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 #spanId {
