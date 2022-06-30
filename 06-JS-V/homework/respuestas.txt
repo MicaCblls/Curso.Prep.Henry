@@ -1,0 +1,4 @@
+- Prototype: es un mecanismo por el que los objetos de Javascript se comparten caracteristicas unos con otros. Podemos decir que los objetos tienen una plantilla objeto base y todos tienen acceso a las propiedades de esa plantilla. 
+
+- Constructor: es un metodo especial, se usa para crear e inicializar un objeto creado con una clase. Solo puede haber un metodo constructor en cada clase. Las clases son 'funciones especiales' que nos facilitan la tarea de crear objetos.
+
