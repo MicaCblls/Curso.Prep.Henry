@@ -1,0 +1,5 @@
+- Bucle FOR: sirve para hacer tareas repetitivas de una forma más simple, con el bucle for podemos repetir un bloque de código las veces que necesitemos y termina cuando nosotros lo indiquemos.
+
+- && AND: es un operador que evalúa los argumentos/operandos que yo escriba a cada lado del mismo, si TODOS son vistos como verdaderos entonces el resultado será verdadero (true), pero si algún operando es visto como falso entonces el resultado será falso (false).
+
+- || OR: es un operador que, como el &&, evalúa los argumentos que yo escriba a cada lado y si alguno es verdadero el resultado será verdadero (true), solo resolverá a falso (false) si TODOS los argumentos son falsos.
