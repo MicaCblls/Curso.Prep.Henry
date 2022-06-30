@@ -1,0 +1,11 @@
+- Objetos: son tipos de datos que sirven como contenedores para guardar mucha informacion sobre una misma cosa, esta informacion se guarda en las propiedades del objeto.
+
+- Propiedad: es una asociacion entre un nombre (o clave) y un valor. Este conjunto clave:valor define la estructura del objeto en si. Los nombres de las propiedades deben ser unicos, pero el mismo valor puede ir asociado a diferentes nombres.
+
+- Metodo: los metodos son funciones que pertenecen a las propiedades de un objeto.
+
+- Bucle for...in: sirve para recorrer cada propiedad de un objeto hasta llegar a la ultima propiedad. Es util para acceder mas facil a las propiedades de los objetos.
+
+- Bracket Notation (objeto['propiedad']) vs Dot Notation (objeto.propiedad): primero que nada ambas sirven para acceder a las propiedades de los objetos.
+Bracket notation se diferencia porque no es literal, es decir, se pueden usar variables para acceder a una propiedad. 
+Dot notation es literal, solo se pueden usar los nombres especificos de las propiedades, variables no. Es mas facil de escribir, por el hecho de que no ocupa tantos caracteres
