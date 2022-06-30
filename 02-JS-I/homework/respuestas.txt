@@ -1,0 +1,9 @@
+- Variables: son contenedores en los que se pueden guardar valores.
+
+- Strings: se le llama strings a las variables en las que se guardan cadenas de texto.
+
+- Funciones: son bloques de código creados para realizar tareas específicas, podemos crearlas para, por ejemplo, si necesitamos resolver una tarea en varios lugares y no queremos tener que repetir bloques de codigo todas las veces. Se crean usando la palabra clave 'function', seguida del nombre que le queramos dar (generalmente el nombre tiene que ver con lo que hace la funcion), luego se abren y cierran paréntesis, dentro de estos van los argumentos (variables que al estar dentro de los parentesis se pueden usar dentro de la funcion), luego se abren y cierran llaves {dentro va el codigo con el que definimos realmente lo que hace la funcion}. Para 'devolver' un valor hacia afuera de una funcion existe la palabra clave return, la cual a su vez termina con la ejecucion de la funcion, o del bloque de codigo en donde se la use.
+
+- Declaraciones IF: son bloques de codigo que reciben una condicion y se ejecutan solo si esa condicion es evaluada como verdadera. Si la condicion es evaluada como falsa no se ejecuta el bloque de codigo que esta dentro del if, se sigue con el codigo que haya debajo.
+
+- Valores booleanos: son tipos de datos que solo pueden tener dos posibles valores: true que significa verdadero y false que significa falso
