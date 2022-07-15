@@ -4,11 +4,25 @@
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
+  font-family: "EB Garamond", serif;
 }
-
+body {
+  background: url(https://img.freepik.com/free-vector/galactic-astral-background_125540-407.jpg?w=2000),
+    rgba(144, 144, 235, 0.3);
+}
+header {
+  display: flex;
+  justify-content: space-around;
+}
+.contenedor-padre {
+  background-color: whitesmoke;
+  margin: 4rem;
+  padding: 2rem;
+  text-align: center;
+  border: 3px rgba(43, 28, 97, 0.5) outset;
+}
 .imagen {
-  width: 20%;
+  max-width: 12.5rem;
   border-radius: 50%;
-  align-self: flex-start;
   border: 5px solid rgba(247, 242, 245, 0.2);
 }
