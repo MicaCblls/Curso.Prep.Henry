@@ -6,47 +6,9 @@
   -moz-box-sizing: border-box;
 }
 
-body {
-  font-family: "Times New Roman";
-  background-color: rgba(184, 40, 83, 0.5);
-  margin: 10px;
-}
-img {
+.imagen {
   width: 20%;
   border-radius: 50%;
   align-self: flex-start;
   border: 5px solid rgba(247, 242, 245, 0.2);
-}
-
-.contenedor-padre {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  width: 100%;
-  max-width: 1000px;
-  margin: auto;
-  text-align: center;
-  background-color: rgb(255, 250, 255);
-  padding: 3%;
-  border: 5px outset rgba(231, 204, 235, 0.3);
-  border-radius: 2px;
-}
-
-header .descripcion span {
-  text-decoration: underline;
-  color: #3c153b;
-}
-header .descripcion {
-  text-align: left;
-  font-size: medium;
-}
-
-header .descripcion .henry-link {
-  color: goldenrod;
-}
-.main {
-  text-align: justify;
-}
-footer {
-  width: 100%;
 }
